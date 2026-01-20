@@ -162,5 +162,8 @@
 	"recommended": "موصى به",
 	"reset": "إعادة تعيين",
 	"reset-success": "تمت إعادة التعيين بنجاح!",
-	"reset-failed": "فشل إعادة التعيين!"
+	"reset-failed": "فشل إعادة التعيين!",
+	"select-model": "اختر النموذج",
+	"no-models-available": "لا توجد نماذج متاحة",
+	"model": "النموذج"
 }

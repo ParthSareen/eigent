@@ -162,5 +162,8 @@
   "recommended": "推薦",
   "reset": "重設",
   "reset-success": "重設成功！",
-  "reset-failed": "重設失敗！"
+  "reset-failed": "重設失敗！",
+  "select-model": "選擇模型",
+  "no-models-available": "沒有可用的模型",
+  "model": "模型"
 }

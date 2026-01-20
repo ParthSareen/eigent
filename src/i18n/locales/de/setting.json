@@ -162,5 +162,8 @@
   "recommended": "Empfohlen",
   "reset": "Zurücksetzen",
   "reset-success": "Zurücksetzen erfolgreich!",
-  "reset-failed": "Zurücksetzen fehlgeschlagen!"
+  "reset-failed": "Zurücksetzen fehlgeschlagen!",
+  "select-model": "Modell auswählen",
+  "no-models-available": "Keine Modelle verfügbar",
+  "model": "Modell"
 }

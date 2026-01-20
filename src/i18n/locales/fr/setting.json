@@ -138,6 +138,9 @@
   "recommended": "Recommandé",
   "reset": "Réinitialiser",
   "reset-success": "Réinitialisation réussie !",
-  "reset-failed": "Échec de la réinitialisation !"
+  "reset-failed": "Échec de la réinitialisation !",
+  "select-model": "Sélectionner le modèle",
+  "no-models-available": "Aucun modèle disponible",
+  "model": "Modèle"
 }
 

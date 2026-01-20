@@ -162,6 +162,9 @@
   "recommended": "おすすめ",
   "reset": "リセット",
   "reset-success": "リセットに成功しました！",
-  "reset-failed": "リセットに失敗しました！"
+  "reset-failed": "リセットに失敗しました！",
+  "select-model": "モデルを選択",
+  "no-models-available": "利用可能なモデルがありません",
+  "model": "モデル"
 }
 

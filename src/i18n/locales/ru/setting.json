@@ -162,6 +162,9 @@
   "recommended": "Рекомендуется",
   "reset": "Сброс",
   "reset-success": "Сброс выполнен успешно!",
-  "reset-failed": "Сбой сброса!"
+  "reset-failed": "Сбой сброса!",
+  "select-model": "Выбрать модель",
+  "no-models-available": "Нет доступных моделей",
+  "model": "Модель"
 }
 

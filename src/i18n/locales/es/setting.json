@@ -162,6 +162,9 @@
   "recommended": "Recomendado",
   "reset": "Restablecer",
   "reset-success": "¡Restablecido correctamente!",
-  "reset-failed": "¡Error al restablecer!"
+  "reset-failed": "¡Error al restablecer!",
+  "select-model": "Seleccionar modelo",
+  "no-models-available": "No hay modelos disponibles",
+  "model": "Modelo"
 }
 

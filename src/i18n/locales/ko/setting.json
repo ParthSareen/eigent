@@ -162,5 +162,8 @@
   "recommended": "추천",
   "reset": "초기화",
   "reset-success": "초기화 완료!",
-  "reset-failed": "초기화 실패!"
+  "reset-failed": "초기화 실패!",
+  "select-model": "모델 선택",
+  "no-models-available": "사용 가능한 모델 없음",
+  "model": "모델"
 }

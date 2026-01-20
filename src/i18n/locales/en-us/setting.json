@@ -163,6 +163,9 @@
 	"reset": "Reset",
 	"reset-success": "Reset successfully!",
 	"reset-failed": "Reset failed!",
+	"select-model": "Select model",
+	"no-models-available": "No models available",
+	"model": "Model",
 
 	"browser-login": "Browser Login",
 	"browser-login-description": "Open a Chrome browser to log in to your accounts. Your login data will be saved locally in a secure profile.",
